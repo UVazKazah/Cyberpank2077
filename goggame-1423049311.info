@@ -1,0 +1,27 @@
+{
+    "buildId": "54747782101443867",
+    "clientId": "53652320436400298",
+    "gameId": "1423049311",
+    "language": "Russian",
+    "languages": [
+        "ru-RU"
+    ],
+    "name": "Cyberpunk 2077",
+    "osBitness": [
+        "64"
+    ],
+    "playTasks": [
+        {
+            "category": "game",
+            "isPrimary": true,
+            "languages": [
+                "*"
+            ],
+            "name": "Cyberpunk 2077",
+            "path": "bin\\x64\\Cyberpunk2077.exe",
+            "type": "FileTask"
+        }
+    ],
+    "rootGameId": "1423049311",
+    "version": 1
+}
